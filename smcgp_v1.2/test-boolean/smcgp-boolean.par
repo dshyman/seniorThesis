@@ -1,0 +1,55 @@
+5				 population_size
+1.0				 per_cent_connection_mutate
+1.0				 per_cent_function_mutate
+1.0				 per_cent_argument_mutate
+5000000  			 num_generations
+1				 num_runs_total
+100				 num_nodes
+100				 levels_back
+1				 progress_report
+50000			       report_interval
+173156789		       global_seed
+0				 save_best_chrom
+0				 run_from_chrom
+targets.txt              targetfiles
+1				 ToDoLength
+3				 num_iterations
+1                        create_dot_files
+0                        create_i0_files
+0                        display_junk
+ 1  0    INCI-IO                   0
+ 0  0    DECI-IO                   1
+ 0  0    SKPI-IO                   2
+ 1  1    INCO-IO                   3
+ 0  1    DECO-IO                   4
+ 0  1    SKPO-IO                   5
+ 0  1    DEL-SM                    6
+ 0  1    ADD-SM                    7
+ 0  1    MOV-SM                    8
+ 0  1    OVR-SM                    9
+ 1  1    DUP-SM                   10
+ 0  1    CRP-SM                   11
+ 1  1    CHC-SM                   12
+ 0  1    CHF-SM                   13
+ 0  1    CHA-SM                   14
+ 0  0    CON-BOOL                 15
+ 0  0	   ZERO-BOOL		    16
+ 0  0	   ONE-BOOL			    17
+ 0  1	   WIRA-BOOL	          18
+ 0  1	   WIRB-BOOL		    19
+ 0  1	   NOTA-BOOL		    20
+ 0  1    NOTB-BOOL		    21
+ 1  2	   AND1-BOOL		    22
+ 0  2	   AND2-BOOL                23
+ 0  2	   AND3-BOOL                24
+ 1  2	   NOR-BOOL                 25
+ 0  2	   XOR-BOOL                 26
+ 0  2	   XNOR-BOOL                27
+ 1  2	   OR-BOOL                  28
+ 0  2	   OR1-BOOL                 29
+ 0  2	   OR2-BOOL                 30
+ 1  2	   NAND-BOOL                31
+ 0  3	   MUX1-BOOL                32
+ 0  3	   MUX2-BOOL                33
+ 0  3	   MUX3-BOOL                34
+ 0  3	   MUX4-BOOL                35

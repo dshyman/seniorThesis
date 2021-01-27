@@ -1,0 +1,55 @@
+5				 population_size
+1.0				 per_cent_connection_mutate
+1.0				 per_cent_function_mutate
+1.0				 per_cent_argument_mutate
+200000			 num_generations
+1				 num_runs_total
+100				 num_nodes
+100				 levels_back
+1				 progress_report
+10000			       report_interval
+173156789		       global_seed
+0				 save_best_chrom
+0				 run_from_chrom
+symb-reg-targets.txt      targetfiles
+1				 ToDo
+1				 num_iterations
+1                        create_dot_files
+0                        create_i0_files
+0                        display_junk
+ 1  0   INCI-IO               0
+ 0  0   DECI-IO               1         
+ 0  0   SKPI-IO               2
+ 1  1   INCO-IO               3
+ 0  1   DECO-IO               4
+ 0  1   SKPO-IO               5
+ 1  1   DEL-SM                6
+ 0  1   ADD-SM                7
+ 0  1   MOV-SM                8
+ 0  1   OVR-SM                9
+ 1  1   DUP-SM               10
+ 0  1   CRP-SM               11
+ 0  1   CHC-SM               12
+ 0  1   CHF-SM               13
+ 0  1   CHP-SM               14
+ 0  0   CON-MATH             15
+ 0  1	  MOD-MATH             16
+ 0  1	  SQRT-MATH            17
+ 0  1	  REC-MATH             18
+ 0  1	  SIN-MATH             19
+ 0  1	  COS-MATH             20
+ 0  1	  TAN-MATH             21
+ 0  1	  EXP-MATH             22
+ 0  1	  SINH-MATH            23
+ 0  1	  COSH-MATH            24
+ 0  1	  TANH-MATH            25
+ 0  1	  LOGE-MATH            26
+ 0  1	  LG10-MATH            27
+ 0  2	  SIN+-MATH            28
+ 0  2	  COS+-MATH            29
+ 0  2	  HYP-MATH             30
+ 0  2	  POW-MATH             31
+ 1  2	  ADD-MATH             32
+ 1  2	  SUB-MATH             33
+ 1  2	  MUL-MATH             34
+ 1  2	  DIV-MATH             35
